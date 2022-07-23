@@ -1,1 +1,1 @@
-# EP-University-Event-Management-System-
+# EP-University-Event-Management-System
